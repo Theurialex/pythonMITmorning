@@ -1,0 +1,7 @@
+print("welcome to python programming")
+print(6 + 7)
+print("6+7")
+print('my name is Alex')
+print(6*7)
+print(6/7)
+print(6-7)
